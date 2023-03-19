@@ -11,7 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "bing-chat": "^0.2.1",
+    "bing-chat": "^0.2.3",
     "dotenv": "^16.0.3"
   }
 }
